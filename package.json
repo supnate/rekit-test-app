@@ -56,7 +56,8 @@
     "portalPort": 6076,
     "buildPort": 6077,
     "plugins": [
-      "redux-saga"
+      "redux-saga",
+      "reselect"
     ],
     "css": "less"
   },
