@@ -56,7 +56,7 @@
     "portalPort": 6076,
     "buildPort": 6077,
     "plugins": [
-      "rekit-plugin-redux-saga"
+      "redux-saga"
     ],
     "css": "less"
   },
